@@ -531,8 +531,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 991px) {
-  #intro h1 {
-    font-size: 34px;
+  #intro img {
+    width:  320px;
+    height: 120px;
   }
 }
 
